@@ -5,8 +5,39 @@ body {
 
 #title {
   color: seagreen;
+  text-align: center;
+  margin: 50px auto;
 }
 
-.recipe {
+ul {
+  list-style-type: none;
+}
+
+.recipes {
+  text-align: center;
+  font-weight: 600;
+  font-size: larger;
+}
+
+.momo {
+  display: inline-block;
   color: rgb(97, 21, 5);
+  border: 3px solid rgb(219, 36, 106);
+  margin: 10px;
+  padding: 20px 50px;
+}
+.chicken {
+  display: inline-block;
+  color: rgb(97, 21, 5);
+  border: 3px solid rgb(219, 36, 106);
+  margin: 10px;
+  padding: 20px 50px;
+}
+
+.tea {
+  display: inline-block;
+  color: rgb(97, 21, 5);
+  border: 3px solid rgb(219, 36, 106);
+  margin: 10px;
+  padding: 20px 50px;
 }
